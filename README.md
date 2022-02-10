@@ -7,11 +7,121 @@ Anotações do desafio de repositórios da DIO (BootCamp GFT Start #4)
   - Tree
   - Commit
   - git init
-  - git add.
+  - git add .
   - git status
   - git commit
 - Github
   - git push
   - git pull
+- Java
+  - Ambiente de Desenvolvimento
+    - Instalando Jabba
+    - Instalando JVM
+    - Compilando e executando .java
+  - Contextualização Java 11
+    - Palavras Reservadas
+    - Declaração de classes
+    - Modificadores de acesso
+    - Métodos
+    - Estrutura de condição
+    - Estrutura de repetição
+  - Documentação Java
+    - Comentário em linha
+    - Comentários em bloco
+    - Javadoc
+      - jabba use openjdk@1.11
+      - java --version
+      - javadoc -d javadoc/ -sourcepath src/ -subpackages com.dio
+    - Tags Javadoc
+      - @author
+      - @deprecated
+      - @link
+      - @param
+      - @return
+      - @see
+      - @since
+      - @throws
+      - @version
+    - Comunidade Java
+      - [OpenSanca](opensanca.com.br)
+      - [SouJava](soujava.org.br)
+      - [DevOpsPBS](devopspbs.org)
+    - Carreira Java
+      - Especialização
+        - backend
+        - frontend
+        - SRE
+        - data engineer
+      - Plataforma
+        - Desktop
+        - Web
+        - Mobile
+      - Progressão
+        - Estagiário
+        - Júnio
+        - Pleno
+        - Sênior
+        - Gestão:
+          - Coordenador
+          - Gerente
+          - Gerente Geral
+          - Diretor
+        - Técnico (Especialista)
+      - Mercado Java
+        - PagSeguro
+        - iFood
+        - AWS
+        - Mercado Livre
+        - Itaú
+        - C6 Bank
+        - Dafiti
+        - Luizalabs
+      - Requisitos
+        - Soft Skills
+          - Resolução de problemas complexos
+          - Pensamento Crítico
+          - Criatividade
+          - Gestão de Pessoas
+          - Coordenação em Equipe
+          - Liderança
+        - Hard Skills
+          - Sprint Boot
+          - Spring Cloud
+          - Apache Kafka
+          - RabbitMQ
+          - Arquitetura Cloud
+          - BD Relacional e Não Relacional
+  - [Dominando IDE's Java](https://github.com/cami-la/curso-dio-dominando-ides-java)
+    - Ambiente de Desenvolvimento:
+      - Windows
+      - Linux
+    - Eclipse
+      - Atalhos:
+        - Ctrl + 3:
+          - Configurar perspectivas:
+            - git
+            - debug
+            - java
+          - Gerar métodos:
+            - Construtores
+            - getter()
+            - setter()
+            - hasCode()
+            - equals()
+            - toString()
+        - Com texto selecionado, Alt + up/down:
+            - movimentar trecho de código pelo texto
+        - Ctrl + Shift + F
+          - Refatora o código e identa
+        - Ctrl + Shift + O:
+          - Importa classe requisitada pela linha selecionada
+      - Git & Github
+        - [...]
+    - IntelliJ
 
-[Markdown Guide](https://www.markdownguide.org/)
+Links úteis:
+- [Markdown Guide](https://www.markdownguide.org/)
+- [BigDecimal](https://www.devmedia.com.br/java-bigdecimal-trabalhando-com-mais-precisao/30286)
+- [Plataformas Java](https://www.devmedia.com.br/introducao-as-plataformas-java/29544)
+- [Modificadores](https://pt.stackoverflow.com/questions/23/qual-%C3%A9-a-diferen%C3%A7a-entre-modificadores-public-default-protected-e-private)
+- [Palavras Reservadas](http://www.linhadecodigo.com.br/artigo/83/as-52-palavras-reservadas-do-java.aspx)
