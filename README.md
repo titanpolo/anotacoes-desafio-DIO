@@ -3,6 +3,7 @@ Anotações do desafio de repositórios da DIO (BootCamp GFT Start #4)
 - Lógica de Programação
 - Estrutura de Dados
 - Git
+  - [Chave SSH e Token](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/7410b862-1989-421a-a48d-500db5857f53?back=/track/gft-start-4-java)
   - Bloob
   - Tree
   - Commit
@@ -100,7 +101,7 @@ Anotações do desafio de repositórios da DIO (BootCamp GFT Start #4)
         - Ctrl + 3:
           - Configurar perspectivas:
             - git
-            - debug
+            - [debug](https://web.dio.me/course/dominando-ides-java/learning/b7b0fb08-dfef-4610-8664-6c11ba9cebd5?back=/track/gft-start-4-java)
             - java
           - Gerar métodos:
             - Construtores
@@ -116,8 +117,13 @@ Anotações do desafio de repositórios da DIO (BootCamp GFT Start #4)
         - Ctrl + Shift + O:
           - Importa classe requisitada pela linha selecionada
       - Git & Github
-        - [...]
-    - IntelliJ
+      - Debug
+      - [Java Build PATH](https://web.dio.me/course/dominando-ides-java/learning/1bdfc2be-f6d4-4f9c-ae45-85167bd6be28?back=/track/gft-start-4-java)
+    - [IntelliJ](https://web.dio.me/course/dominando-ides-java/learning/907e1507-001d-4187-bfed-bac33e689bb1?back=/track/gft-start-4-java)
+  - [Variáveis](https://web.dio.me/course/variaveis-tipos-de-dados-e-operadores-matematicos-em-java/learning/d687771f-76cd-4379-9e1f-1c529c44e15b?back=/track/gft-start-4-java)
+  - [Entendendo Métodos Java](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648?back=/track/gft-start-4-java)
+  - [Lógica Condicional](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42?back=/track/gft-start-4-java)
+
 
 Links úteis:
 - [Markdown Guide](https://www.markdownguide.org/)

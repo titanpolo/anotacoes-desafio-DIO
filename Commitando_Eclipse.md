@@ -1,0 +1,5 @@
+[Commitando do Eclise](https://github.com/titanpolo/eclipse-commit)
+- [Video DIO](https://web.dio.me/course/dominando-ides-java/learning/76dc0314-0fea-43eb-981b-feacf129e960?back=/track/gft-start-4-java)
+- [Erro ao commitar](https://stackoverflow.com/questions/30421875/cant-connect-to-any-uri-error-while-commiting-code-from-eclipse-to-git-reposito)
+    - Considerando que o SSH já esteja configurado na máquina local, rever [aqui](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/7410b862-1989-421a-a48d-500db5857f53?back=/track/gft-start-4-java)
+    - Caso ocorra um erro "Can't connect to any URI: ssh..." a solução seria gerar um token, como fazer [aqui](https://stackoverflow.com/questions/30421875/cant-connect-to-any-uri-error-while-commiting-code-from-eclipse-to-git-reposito)
